@@ -5,6 +5,7 @@ public abstract class Account {//super class for my accounts
     public Account(Currency deposit) {
         currency = deposit;
     }
+    
 
     public abstract String getType();
 
