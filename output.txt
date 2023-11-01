@@ -1,0 +1,217 @@
+Enter a number.
+Become a new customer.(1)
+Create an account.(2)
+Account balance(3)
+Deposit money(4)
+Withdraw money(5)
+Exit(6)
+1
+Enter your first and last name.
+Aziz Abdusamiev
+Abdusamiev Aziz congrats! You have an account now.
+
+Enter a number.
+Become a new customer.(1)
+Create an account.(2)
+Account balance(3)
+Deposit money(4)
+Withdraw money(5)
+Exit(6)
+2
+Enter an account type.
+Checking(1)
+Saving(2)
+CD(3)
+1
+Enter the balance. (in cents)
+20000
+"Checking" account created.
+
+Enter a number.
+Become a new customer.(1)
+Create an account.(2)
+Account balance(3)
+Deposit money(4)
+Withdraw money(5)
+Exit(6)
+2
+Enter an account type.
+Checking(1)
+Saving(2)
+CD(3)
+2
+Enter the balance. (in cents)
+100000
+"Saving" account created.
+
+Enter a number.
+Become a new customer.(1)
+Create an account.(2)
+Account balance(3)
+Deposit money(4)
+Withdraw money(5)
+Exit(6)
+4
+Enter an account type.
+Checking(1)
+Saving(2)
+CD(3)
+1
+Enter the amount of money you want to deposit (in cents)
+2000
+Aziz Abdusamiev deposited
+20 dollars and 0 cents into the "Checking" account
+
+Enter a number.
+Become a new customer.(1)
+Create an account.(2)
+Account balance(3)
+Deposit money(4)
+Withdraw money(5)
+Exit(6)
+5
+Enter an account type.
+Checking(1)
+Saving(2)
+CD(3)
+1
+Enter the amount of money you want to withdraw (in cents)
+1500
+Aziz Abdusamiev withdrew
+15 dollars and 0 cents from the "Checking" account
+
+Enter a number.
+Become a new customer.(1)
+Create an account.(2)
+Account balance(3)
+Deposit money(4)
+Withdraw money(5)
+Exit(6)
+3
+Enter an account type.
+Checking(1)
+Saving(2)
+CD(3)
+1
+Aziz Abdusamiev
+Checking account has 205 dollars 0 cents
+
+Enter a number.
+Become a new customer.(1)
+Create an account.(2)
+Account balance(3)
+Deposit money(4)
+Withdraw money(5)
+Exit(6)
+3
+Enter an account type.
+Checking(1)
+Saving(2)
+CD(3)
+2
+Aziz Abdusamiev
+Saving account has 1200 dollars 0 cents
+
+Enter a number.
+Become a new customer.(1)
+Create an account.(2)
+Account balance(3)
+Deposit money(4)
+Withdraw money(5)
+Exit(6)
+1
+You already have an account.
+Please exit if you are done.
+
+Enter a number.
+Become a new customer.(1)
+Create an account.(2)
+Account balance(3)
+Deposit money(4)
+Withdraw money(5)
+Exit(6)
+6
+
+Enter a number.
+Become a new customer.(1)
+Create an account.(2)
+Account balance(3)
+Deposit money(4)
+Withdraw money(5)
+Exit(6)
+1
+Enter your first and last name.
+Barry Alen
+Alen Barry congrats! You have an account now.
+
+Enter a number.
+Become a new customer.(1)
+Create an account.(2)
+Account balance(3)
+Deposit money(4)
+Withdraw money(5)
+Exit(6)
+2
+Enter an account type.
+Checking(1)
+Saving(2)
+CD(3)
+3
+Enter the balance. (in cents)
+200000
+"CD" account created.
+
+Enter a number.
+Become a new customer.(1)
+Create an account.(2)
+Account balance(3)
+Deposit money(4)
+Withdraw money(5)
+Exit(6)
+3
+Enter an account type.
+Checking(1)
+Saving(2)
+CD(3)
+3
+Barry Alen
+CD account has 2600 dollars 0 cents
+
+Enter a number.
+Become a new customer.(1)
+Create an account.(2)
+Account balance(3)
+Deposit money(4)
+Withdraw money(5)
+Exit(6)
+7
+Please enter a valid action.
+
+Enter a number.
+Become a new customer.(1)
+Create an account.(2)
+Account balance(3)
+Deposit money(4)
+Withdraw money(5)
+Exit(6)
+6
+
+Enter a number.
+Become a new customer.(1)
+Create an account.(2)
+Account balance(3)
+Deposit money(4)
+Withdraw money(5)
+Exit(6)
+1
+Enter your first and last name.
+Aziz Abdusamiev
+You already have an account.
+
+Enter a number.
+Become a new customer.(1)
+Create an account.(2)
+Account balance(3)
+Deposit money(4)
+Withdraw money(5)
+Exit(6)
