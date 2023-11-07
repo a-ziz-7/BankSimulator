@@ -28,8 +28,23 @@ In this project, I have implemented a comprehensive bank simulation system, incl
 
 - **Main Program:** The main program provides a user-friendly menu to interact with the system. Users can become customers, open accounts, perform transactions, and check balances.
 
-## Usage
+- 
+## Classes
 
-To run the program, you need to compile the Java files and execute the main program. Here are the steps:
+### Currency Class
 
-1. Compile the Java files:
+- `public Currency()`: Initializes the number of cents to 0.
+- `public Currency(int cents)`: Initializes the number of cents to the specified value.
+- `public int getValue()`: Returns the number of cents in the account.
+- `public Currency add(Currency rhs)`: Adds two Currency objects together.
+- `public Currency subtract(Currency rhs)`: Subtracts two Currency objects.
+- `public String toString()`: Returns a representation for a Currency object, printing the amount of money in dollars.
+
+### Account Class
+
+- `public Account(Currency initialDeposit)`: Creates an account with an initial deposit.
+- `public void withdraw(Currency money)`: Withdraws money from the account (to be overridden by subclasses).
+- `public void deposit(Currency money)`: Deposits money into the account (to be overridden by subclasses).
+- `public Currency getBalance()`: Returns the balance in the account (to be overridden by subclasses).
+
+
