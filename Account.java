@@ -15,4 +15,5 @@ public abstract class Account {//super class for my accounts
 
     public abstract Currency getBalance();
 
+    
 }
