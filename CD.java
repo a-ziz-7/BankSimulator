@@ -23,6 +23,6 @@ public class CD extends Account {
     }
 
     public String toString() {
-        return currency.toString();
+        return "CD account: " + currency.toString();
     }
 }
